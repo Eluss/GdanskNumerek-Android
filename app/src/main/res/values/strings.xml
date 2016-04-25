@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gdansk Numerek</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Odśwież</string>
+    <string name="update_time_template">Numerek został pobrany o godzinie: </string>
+    <string name="ticket_info">Poniżej znajdują się informacje, odnośnie aktualnie obsługiwanego numerka.</string>
+    <string name="handled_number">Obsługiwany numerek</string>
+    <string name="zom1_button">Zespół obsługi mieszkańców nr 1 \nul. Partyzantow 74</string>
+    <string name="zom2_button">Zespół obsługi mieszkańców nr 2 \nul. Milskiego 1</string>
+    <string name="zom3_button">Zespół obsługi mieszkańców nr 3 \nul. Nowe Ogrody 8/12</string>
+    <string name="zom4_button">Zespół obsługi mieszkańców nr 4 \nul. Wilanowska 2</string>
+    <string name="description_main">Szanowni Państwo, powyżej prezentujemy aktualny wykaz obsługiwanych biletów przez pracowników Urzędu Miejskiego w Gdańsku w wybranym Zespole Obsługi Mieszkańców (ZOM). Czas obsługi danego numeru jest wartością orientacyjną wyliczoną na podstawie ilości oczekujących klientów.</string>
+</resources>
